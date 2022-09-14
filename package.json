@@ -1,5 +1,5 @@
 {
-  "name": "asset-check",
+  "name": "@nishthagupta/asset-check",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
